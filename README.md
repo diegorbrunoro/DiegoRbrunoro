@@ -44,3 +44,10 @@ Em paralelo, consolido meu stack de **backend com Java + Spring Boot**, voltado 
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <br />
+
+---
+
+### 📊 Stats
+
+![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegorbrunoro&show_icons=true&include_all_commits=true&disable_animations=true&theme=dracula&hide_border=true)
+
