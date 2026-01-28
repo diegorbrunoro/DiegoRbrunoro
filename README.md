@@ -3,13 +3,12 @@
 **`Analista de Dados (BI/ETL) • Desenvolvedor em evolução (Java/Spring)`**
 
 Construo soluções de dados de ponta a ponta — **modelagem, ETL e dashboards** — com foco em clareza, desempenho e manutenção.  
-Em paralelo, estou consolidando meu stack de **backend com Java + Spring Boot**, voltado à construção de APIs bem estruturadas e evolutivas.
+Em paralelo, consolido meu stack de **backend com Java + Spring Boot**, voltado à construção de APIs bem estruturadas e evolutivas.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
     <img
       alt="LinkedIn"
-      title="Conectar no LinkedIn"
       src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge"
       height="30"
     />
@@ -17,7 +16,6 @@ Em paralelo, estou consolidando meu stack de **backend com Java + Spring Boot**,
   <a href="mailto:SEU_EMAIL_AQUI">
     <img
       alt="Gmail"
-      title="Enviar email"
       src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge"
       height="30"
     />
@@ -25,7 +23,6 @@ Em paralelo, estou consolidando meu stack de **backend com Java + Spring Boot**,
   <a href="https://github.com/diegorbrunoro" target="_blank">
     <img
       alt="GitHub"
-      title="Ver repositórios"
       src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge"
       height="30"
     />
