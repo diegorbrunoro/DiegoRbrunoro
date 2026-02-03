@@ -29,20 +29,20 @@ Meu objetivo: vagas **Júnior/Pleno Back-end Java** (ou Fullstack com Java), apr
 
 ### 🧰 Linguagens e Ferramentas
 
+<!-- Ícones padronizados (fonte estável: Devicon via jsDelivr) -->
 <p align="left">
-  <img alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img alt="Databricks" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/4998052?s=200&v=4" />
-  <img alt="BigQuery" width="30px" style="padding-right:10px;" src="https://cdn.worldvectorlogo.com/logos/google-bigquery-logo-1.svg" />
-  <img alt="Power BI" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" />
-  <img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img alt="Spring Boot" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img alt="Maven" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachemaven/apachemaven-original.svg" />
-  <img alt="Swagger" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/2/25/OpenAPI_Logo.svg" />
-  <img alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img alt="Java" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="Spring" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+  <img alt="Maven" width="32"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg"/>
+  <img alt="PostgreSQL" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img alt="Python" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="Docker" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img alt="Git" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="GitHub" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  
+
 </p>
+**Outras ferramentas:** SQL · Databricks · BigQuery · Power BI · Swagger/OpenAPI · Google Cloud (Cloud Functions)
 
 ---
 
@@ -54,19 +54,12 @@ Aqui estão projetos que desenvolvi para demonstrar habilidades práticas em bac
   API REST completa para controle de finanças pessoais (lançamentos de receitas e despesas).  
   **Tecnologias**: Java 17, Spring Boot 3, Spring Data JPA, PostgreSQL/H2, Docker, Swagger/OpenAPI, JUnit 5 + MockMvc.  
   **Destaques**: CRUD completo, resumo de saldo, validação, tratamento de erros, testes de integração, Docker + docker-compose, documentação interativa.  
-  → [Veja o repositório](https://github.com/diegorbrunoro/smarflow-api)  
-  → [Swagger UI (local)](http://localhost:8080/swagger-ui/index.html) após rodar
+  **Swagger UI (local):** disponível após rodar o projeto em `http://localhost:8080/swagger-ui/index.html`.
 
 - **[TaskFlow API](https://github.com/diegorbrunoro/taskflow-api)**  
   API REST simples para gerenciamento de tarefas (projeto introdutório).  
   **Tecnologias**: Java 17, Spring Boot, Swagger/OpenAPI.  
   **Destaques**: Endpoints básicos (health check, CRUD em memória), documentação automática com Swagger.  
-  → [Veja o repositório](https://github.com/diegorbrunoro/taskflow-api)  
-  → [Swagger UI (local)](http://localhost:8080/swagger-ui.html) após rodar
+  **Swagger UI (local):** disponível após rodar o projeto em `http://localhost:8080/swagger-ui.html`.
 
 ---
-
-### 📊 Estatus
-
-![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegorbrunoro&show_icons=true&include_all_commits=true&disable_animations=true&theme=dracula&hide_border=true)
-
