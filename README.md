@@ -69,3 +69,7 @@ Aqui estão projetos que desenvolvi para demonstrar habilidades práticas em bac
 ### 📊 Estatus
 
 ![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=diegorbrunoro&show_icons=true&include_all_commits=true&disable_animations=true&theme=dracula&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diegorbrunoro&layout=compact&theme=dracula&hide_border=true)
+
+![Diego's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=diegorbrunoro&show_icons=true&include_all_commits=true&disable_animations=true&theme=dracula&hide_border=true)
