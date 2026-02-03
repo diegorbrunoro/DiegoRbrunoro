@@ -1,4 +1,4 @@
-# 🧠 Diego Brunoro
+# Diego Rodrigues Brunoro
 **`Analista de Dados Pleno (BI/ETL) • Desenvolvedor em evolução (Java/Spring)`**
 
 Atuo como **Analista de Dados Pleno na Compass.uol**, em projetos de grande porte para a **Petrobras**, com foco em transformar dados em análises que apoiam decisões de negócio e aumentam previsibilidade operacional.
@@ -14,10 +14,10 @@ Formado em Análise e Desenvolvimento de Sistemas (ADS) com foco em Java (cursos
 Meu objetivo: vagas **Júnior/Pleno Back-end Java** (ou Fullstack com Java), aproveitando experiência corporativa em dados + cloud.
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI" target="_blank">
+  <a href="https://www.linkedin.com/in/diego-rodrigues-brunoro-5952a587/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="30" />
   </a>
-  <a href="mailto:SEU_EMAIL_AQUI">
+  <a href="mailto:diegorbrunoro@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" />
   </a>
   <a href="https://github.com/diegorbrunoro" target="_blank">
@@ -29,20 +29,19 @@ Meu objetivo: vagas **Júnior/Pleno Back-end Java** (ou Fullstack com Java), apr
 
 ### 🧰 Linguagens e Ferramentas
 
-<!-- Ícones padronizados (fonte estável: Devicon via jsDelivr) -->
 <p align="left">
   <img alt="Java" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img alt="Spring" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-  <img alt="Maven" width="32"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg"/>
+  <img alt="Maven" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" />
   <img alt="PostgreSQL" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img alt="Python" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img alt="Docker" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img alt="Git" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="GitHub" width="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  
-
 </p>
-**Outras ferramentas:** SQL · Databricks · BigQuery · Power BI · Swagger/OpenAPI · Google Cloud (Cloud Functions)
+
+**Outras ferramentas:**  
+SQL · Databricks · BigQuery · Power BI · Swagger/OpenAPI · Google Cloud (Cloud Functions)
 
 ---
 
